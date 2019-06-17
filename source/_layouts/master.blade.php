@@ -21,10 +21,10 @@
         <nav>
             <strong>{{ $page->site->title }}</strong><br>
             <ul>
-                <li><a href="/">Home</a></li>
-                <li><a href="/posts">Posts</a></li>
-                <li><a href="/about">About</a></li>
-                <li><a href="/contact">Contact</a></li>
+                <li><a href="/">Error</a></li>
+                <li><a href="/posts">Knoledge</a></li>
+                <li><a href="/about">Knoledge</a></li>
+                <li><a href="/contact">Make Contact</a></li>
             </ul>
         </nav>
     </header>
