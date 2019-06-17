@@ -3,12 +3,20 @@
 @section('title', 'Contact')
 
 @section('content')
-    <h1>Contact</h1>
+    <h1>Make Contact</h1>
 
     <form method="post" data-netlify="true">
         <div>
             <label for="name">Name</label><br>
             <input type="text" name="name" id="name" required>
+        </div>
+
+        <div>
+            <label>Your Role: <select name="soul[]" multiple>
+              <option value="Delta">Delta</option>
+        <option value="Omega">Omega</option>
+        <option value="undetermined">undetermined</option>
+      </select></label>
         </div>
 
         <div>

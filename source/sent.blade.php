@@ -9,5 +9,5 @@ permalink: contact/sent/index.html
 @section('content')
     <h1>Contact</h1>
 
-    <h3>Your message has been sent.</h3>
+    <h3>Your message has been sent to DELTA, thank you for your valuble information.</h3>
 @endsection
