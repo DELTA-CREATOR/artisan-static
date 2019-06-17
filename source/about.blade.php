@@ -5,12 +5,6 @@
 @section('content')
     <h1>About</h1>
 
-    <p>My name is {{ $page->owner->name }}</p>
+    <p>Our Time Has Come. We must reveal to the world the horror and injustice caused by alpha</p>
 
-    <h2>Links:</h2>
-
-    <ul>
-        <li><a href="https://twitter.com/{{ $page->owner->twitter }}" target="_blank">Twitter</a></li>
-        <li><a href="https://github.com/{{ $page->owner->github }}" target="_blank">GitHub</a></li>
-    </ul>
-@endsection
+<p1>our souls are bound to Omega, the goddess of Truth. but alpha has no soul. the only have hunger, hunger for the knoledge that they themselves are to cowerdice to see.</p1>
